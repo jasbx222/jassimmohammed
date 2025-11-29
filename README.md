@@ -1,15 +1,17 @@
 # 👋 Hi, I'm a Full Stack Developer
 
+![Anime Header](https://media.giphy.com/media/26gsgB0l1z1fB5uH2/giphy.gif)  
+
 💻 مطور ويب متخصص في **Laravel & React**  
 🚀 أحب بناء تطبيقات سريعة، آمنة، وقابلة للتوسع  
-🎯 هدفي تطوير مهاراتي والعمل على مشاريع عالمية
+🎯 هدفي تطوير مهاراتي والعمل على مشاريع عالمية  
 
 ---
 
 ## 🛠 Tech Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
 ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
@@ -21,11 +23,23 @@
 
 ## 🧠 Skills
 
-- بناء RESTful APIs باستخدام Laravel
-- إدارة الحالة باستخدام Redux Toolkit
-- تصميم واجهات احترافية باستخدام MUI
-- التعامل مع Authentication & Authorization
-- استخدام React Query في جلب البيانات
-- رفع الصور ومعالجة FormData
+- ⚡ بناء RESTful APIs باستخدام Laravel
+- ⚡ إدارة الحالة باستخدام Redux Toolkit
+- ⚡ تصميم واجهات احترافية باستخدام MUI
+- ⚡ التعامل مع Authentication & Authorization
+- ⚡ استخدام React Query في جلب البيانات
+- ⚡ رفع الصور ومعالجة FormData
 
 ---
+
+## 🌸 Animations & Fun
+
+![Anime Wave](https://media.giphy.com/media/l0HlQ7LRal6y91lDq/giphy.gif)
+![Coding Anime](https://media.giphy.com/media/3orieVYYpql1TR8xyo/giphy.gif)
+
+---
+
+## 📫 Contact Me
+
+- GitHub: [jasbx222](https://github.com/jasbx222)
+- LinkedIn: [Jassim Mohammed](https://www.linkedin.com/in/jassim-mohammed-253a98295/)
