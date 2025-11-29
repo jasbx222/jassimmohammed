@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/jasbx222/assets/main/animated-title.svg" alt="Hi, I'm Jassim Mohammed" width="600">
+![Hi, I'm Jassim Mohammed](./assets/title.gif)
 
 💻 مطور ويب متخصص في **Laravel & React**  
 🚀 أحب بناء تطبيقات سريعة، آمنة، وقابلة للتوسع  
