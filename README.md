@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Jassim Mohammed
-
-💻 مطور ويب متخصص في **Laravel & React**  
+# <img src="https://raw.githubusercontent.com/jasbx222/assets/main/animated-title.svg" alt="Hi, I'm Jassim Mohammed" width="600">
+  
 🚀 أحب بناء تطبيقات سريعة، آمنة، وقابلة للتوسع  
 🎯 هدفي تطوير مهاراتي والعمل على مشاريع عالمية  
 🌍 From Baghdad, Iraq
